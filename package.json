@@ -1,0 +1,26 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "description": "Job scraper",
+  "keywords": [
+    "jbscraper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "job-scraper"
+  },
+  "license": "ISC",
+  "author": "Mohammed Altahir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "express": "^5.1.0",
+    "expressjs": "^1.0.1",
+    "nodemon": "^3.1.10",
+    "puppeteer": "^24.14.0"
+  }
+}
