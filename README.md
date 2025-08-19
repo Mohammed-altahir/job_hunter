@@ -1,4 +1,4 @@
-# Job Scraper
+# Job Hunter
 
 A Node.js API for scraping job listings and job details from LinkedIn using Puppeteer.
 
